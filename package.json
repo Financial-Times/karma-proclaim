@@ -22,7 +22,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "proclaim": "~2.0.0"
+    "proclaim": "^3.6.0"
   },
   "peerDependencies": {
     "karma": ">=0.9"
