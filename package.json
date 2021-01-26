@@ -8,7 +8,7 @@
     "mocha",
     "assert"
   ],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Bradley C Bailey <brad@memoryleak.org>",
   "main": "./index.js",
   "license": "MIT",
@@ -19,8 +19,7 @@
   "peerDependencies": {
     "karma": ">=0.9"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Financial-Times/karma-proclaim.git"
